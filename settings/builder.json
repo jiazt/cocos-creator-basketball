@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.BasketBall",
+  "startScene": "bbb8e11b-4e63-45cb-bee5-9f41d96a1271",
+  "title": "BasketBall",
+  "webOrientation": "auto"
+}
